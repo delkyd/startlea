@@ -1,28 +1,4 @@
 # startlea
 
 
-准备开发环境
-	1.1) 干净的机器环境 (删除与工作无关的游戏，安装好防病毒软件)  工作时间不得做与工作无关的事
-	1.2) 接入网络  接入网络时，会进入一个OA界面  会被要求登录  用户名guest密码guest进行登录 
-	1.3) 学会利用baidu,bing,msn itellyou(微软资料), 0daydown(通用下载站), codeplex, github 等工具进行资料搜索
-	1.4) 常用工具  everything(文件检索), ultraiso(虚拟光驱), foxmail(邮件客户端) 
-
-	2.1) 开发工具准备(visual studio 2015 或者 visual studio 2008 中文版本)  
-	2.2) 资料准备(wenku.baidu.com)
-	2.3) 规划好工作目录，确定某个分区或者磁盘作为你的工作目录 
-
-	3.1) .net c# 编程开发资料 (a,快速开始  b,教程  c,从hell world 开始)
-	3.2) web 编程 (了解web的基本结构 学 html 1.1 的基本标签 可下载chm版本)
-	3.3) 数据库 (以微软sqlserver 为基础)
-	3.4) 其它辅助工具的学习  
-		visualsvn,TortoiseSVN(程序版本控制 可以考虑在本地搭建一个版本控制环境) 以及git
-		evernote(印象笔记)或者mybase等进行资源收集 
-		visio(绘图) freemind(思维辅助) word,excel,powerpoint(常用) project(制作计划) 
-		paint.net(photoshop)进行简单的图形处理 
-
-	4) 进行html页面编写测试  c#代码基本程序开发测试  数据库访问测试
-		从quickstart 快速入门 等开始
-		先尝试从小示例开始
-
-
-
+start code ~~~~
